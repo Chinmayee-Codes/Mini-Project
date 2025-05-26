@@ -15,7 +15,6 @@ time_slots = [
     "5:30 – 6:30 PM", "6:30 – 7:45 PM", "7:45 – 8:15 PM", "8:15 – 9:00 PM"
 ]
 
-# Paste your week_data here based on the structured format above
 week_data = {
     "Week 1": [
         ["Morning Routine"]*7,
@@ -66,9 +65,6 @@ week_data = {
         ["Recap + Flashcards"]*6 + ["Rest and Reflection"]
     ]
 }
-
-
-# Due to space, if you need the full dataset, let me know and I’ll give you `week_data` separately.
 
 # Create workbook and fill in sheets
 wb = Workbook()
