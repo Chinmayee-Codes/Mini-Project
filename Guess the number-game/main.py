@@ -36,6 +36,7 @@ def number_guessing_game():
 
     else:
         print(f"You're out of guesses. The number was {secret_number}. Better luck next time! HEHEHE")
+        
 
 # Running the game
 if __name__ == "__main__":
