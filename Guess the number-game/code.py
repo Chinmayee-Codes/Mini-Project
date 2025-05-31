@@ -29,13 +29,13 @@ def number_guessing_game():
                 print("Too high!")
             else:
                 print(f" Correct! The number was {secret_number}.")
-                print(f"You guessed it in {attempts} attempts.")
+                print(f"You guessed the number correctly in {attempts} attempts.")
                 break
         except ValueError:
             print("Please enter a valid number.")
 
     else:
-        print(f"You're out of guesses. The number was {secret_number}. Better luck next time!")
+        print(f"You're out of guesses. The number was {secret_number}. Better luck next time! HEHEHE")
 
 # Running the game
 if __name__ == "__main__":
