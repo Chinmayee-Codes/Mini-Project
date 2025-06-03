@@ -35,7 +35,7 @@ def number_guessing_game():
             print("Please enter a valid number.")
 
     else:
-        print(f"You're out of guesses. The number was {secret_number}. Better luck next time! HEHEHE")
+        print(f"You're out of guesses. The number was {secret_number}!. Better luck next time! HEHEHE")
         
 
 # Running the game
