@@ -1,0 +1,6 @@
+shipment_id,source,destination,ship_date,delivery_date,weather_source,weather_destination,news_score,delay_in_days
+S001,Mumbai,Delhi,2024-05-01,2024-05-03,Clear,Rain,0.7,2
+S002,Delhi,Bangalore,2024-05-02,2024-05-04,Clear,Clear,0.1,0
+S003,Hyderabad,Chennai,2024-05-01,2024-05-05,Rain,Rain,0.8,1
+S004,Mumbai,Kolkata,2024-05-03,2024-05-06,Clear,Storm,0.9,3
+S005,Delhi,Mumbai,2024-05-04,2024-05-05,Clear,Clear,0.2,0
